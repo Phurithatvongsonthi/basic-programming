@@ -1,12 +1,12 @@
-const firstname : string = 'phurithat'
+const firstName : string = 'phurithat'
 var y : number = '10'
 y = 20
-let อยากกลับบ้าน : boolean = false
-console.log (firstname)
+let iWantToGoHome : boolean = false
+console.log (firstName)
 console.log(y)
-console.log(อยากกลับบ้าน)
+console.log(iWantToGoHome)
 const a : number = '1'
 const b: number = '4'
-console.log (a==b)
+console.log (a===b)
 console.log (a>b)
 console.log (a<=b)
