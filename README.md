@@ -1,1 +1,2 @@
 # basic-programming
+แบบฝึกหัดของ ภูริทัต
