@@ -16,6 +16,13 @@ console.log (sc(3,4,5,6))
 
 
 function หิว (หิวจริงไหม : boolean) {
+if( หิว===true) {
+     console.log('หิวโว๊ย')
+}else {
+    console.log('ไม่หิว')
+}
+
+}
 function grade (homework : number, midterm: number,final:number){
     let score : number = homework + midterm +final
 
